@@ -7,3 +7,23 @@
 * Public can be able to view the status of their complaint whether it is ‘Acknowledged’ or ‘Marked as solved by Government officials’. 
 
 * The admin can also view the registered government official details and also the complaints filed by the public. The admin also can’t able to delete the complaints filed by the public if it is not marked as solved by both government official and public. Admin can move the filed complaint to the higher officials if the complaint is not solved by the government officials within 3 days.
+
+## Languages Used
+
+* HTML, CSS, PHP, JavaScript
+
+## Website Link
+
+* Hosted on Heroku <a href="https://publicspeakup.herokuapp.com">Website Link</a>
+
+* Testing Email ID for Public User Sign-In: <br />
+          * 18euit114@skcet.ac.in<br />
+          * 23@2000Raghu<br />
+          
+* After enter details <a href="https://publicspeakup.herokuapp.com/publicHome.php">Click here!</a>
+
+* Testing Email ID for Government User Sign-In:<br />
+          * 18euit118@skcet.ac.in<br />
+          * 23@2000Rajesh <br />
+* After enter details <a href="https://publicspeakup.herokuapp.com/governmentHome.php">Click here!</a>
+

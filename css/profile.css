@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+}
+
+.header {
+  padding-top: 30px;
+  color: #444;
+  font-size: 20px;
+  margin: auto;
+  line-height: 50px;
+}
+
+h1 {
+  align-items: center;
+  color: white;
+}
+
+.sub-container {
+  max-width: 1200px;
+  margin: auto;
+  padding: 40px 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.teams {
+  margin: 10px;
+  padding: 22px;
+  max-width: 30%;
+  cursor: pointer;
+  transition: 0.4s;
+  box-sizing: border-box;
+  justify-content: space-between;
+}
+
+.teams:hover {
+  border-radius: 12px;
+}
+
+.teams img {
+  width: 150px;
+  height: 150px;
+}
+
+.name:hover {
+  transform: scale(1.5);
+}
+.mail:hover {
+  transform: scale(1.5);
+}
+.address:hover {
+  transform: scale(1.5);
+}
+.street:hover {
+  transform: scale(1.5);
+}
+.city:hover {
+  transform: scale(1.5);
+}
+.pincode:hover {
+  transform: scale(1.5);
+}
+.phone:hover {
+  transform: scale(1.5);
+}
+
+@media screen and (max-width: 600px) {
+  .teams {
+    max-width: 100%;
+  }
+}

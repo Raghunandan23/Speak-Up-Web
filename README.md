@@ -27,3 +27,7 @@
           * 23@2000Rajesh <br />
 * After enter details <a href="https://publicspeakup.herokuapp.com/governmentHome.php">Click here!</a>
 
+### Important Note
+
+### Use Chrome for launching website at 90% Zoom
+
